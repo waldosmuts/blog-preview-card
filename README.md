@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/waldosmuts/url-shortening-api)
-- Live Site URL: [Live Preview](https://shortlyfi.netlify.app/)
+- Solution URL: [Github Repo](https://github.com/waldosmuts/blog-preview-card)
+- Live Site URL: [Live Preview](https://waldosmuts.github.io/blog-preview-card/)
 
 ## My process
 
