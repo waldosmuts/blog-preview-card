@@ -8,14 +8,14 @@
 
 @font-face {
   font-family: Figtree;
-  src: url('assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+  src: url('../assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
   font-style: normal;
   font-weight: 600 800;
 }
 
 @font-face {
   font-family: Figtree;
-  src: url('assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+  src: url('../assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
   font-style: italic;
   font-weight: 600 800;
 }
